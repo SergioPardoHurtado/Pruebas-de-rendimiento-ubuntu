@@ -1,6 +1,8 @@
 # Pruebas-de-rendimiento-ubuntu
 Repositorio creado para almacenar todo el trabajo realizado para el taller de pruebas de rendimiento de la materia de Sistemas operativos
 
+El repositorio consiste de carpetas que contienen el codigo fuente, los resultados de las pruebas realizadas individualmente y finalmente la documentacion del taller mencionado
+
 Profesor: John Corredor Franco
 
 Pontificia Universidad Javeriana
