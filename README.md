@@ -1,5 +1,5 @@
 # Pruebas-de-rendimiento-ubuntu
-Repositorio creado para almacenar el trabajo hecho para el taller de pruebas de rendimiento de la materia de Sistemas operativos
+Repositorio creado para almacenar todo el trabajo realizado para el taller de pruebas de rendimiento de la materia de Sistemas operativos
 
 Profesor: John Corredor Franco
 
