@@ -1,7 +1,7 @@
 # Pruebas-de-rendimiento-linux/ubuntu
 Repositorio creado para almacenar todo el trabajo realizado para el taller de pruebas de rendimiento de la materia de Sistemas operativos
 
-El repositorio consiste de carpetas que contienen el codigo fuente, los resultados de las pruebas realizadas individualmente y finalmente la documentacion del taller mencionado
+El repositorio consiste de carpetas que contienen el codigo fuente, los resultados de las pruebas realizadas individualmente y finalmente la documentacion del taller mencionado que incluye los csv para cada prueba y el documento pdf del desarrollo del taller
 
 Profesor: John Corredor Franco
 
